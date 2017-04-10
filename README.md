@@ -1,2 +1,1 @@
-# 1. Install VueJS
-  * [Manual Link](installVueJS.md)
+# 1. [Install VueJS](installVueJS.md)
